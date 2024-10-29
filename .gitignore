@@ -1,0 +1,7 @@
+*.Rproj
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
+
+data/*.csv
+exports/*.csv
