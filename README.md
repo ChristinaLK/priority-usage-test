@@ -16,3 +16,4 @@
 
 * Add more arguments (right now you have to manually edit the filenames / dates)
 * Turn the R script into a Python script
+* Maybe include backfill for prioritized nodes, not just prioritized? to calculate prioritized vs backfill
